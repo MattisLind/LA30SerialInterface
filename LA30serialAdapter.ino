@@ -13,14 +13,14 @@
   P1     PBIT7             12              PB4
   V2     PINIL              9              PB1
   E2     PSTBL             13              PB5
-  S1     KBIT1L             2              PD2
+  S1     KBIT1L            11              PB3
   D2     KBIT2L             3              PD3
   H2     KBIT3L             4              PD4
   M2     KBIT4L             5              PD5
   P2     KBIT5L             6              PD6
   S2     KBIT6L             7              PD7
   T2     KBIT7L             8              PB0
-  M1     KSTBL             11              PB3
+  M1     KSTBL              2              PD2
 */
 
 #define PBIT1 A0
