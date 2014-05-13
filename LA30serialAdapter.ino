@@ -91,7 +91,7 @@ volatile int keyboardData;
 
 void keyInt () {
     keyboardData = (0x03e & PIND) >> 2;
-    keyboardData |= digitalRead(KBIT0L);
+    keyboardData |= digitalRead(KBIT1L);
     keyboardData |= (digitalRead(KBIT7L)<<6);
     keyboardReady=1;  
 }
