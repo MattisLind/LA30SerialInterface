@@ -37,3 +37,5 @@ wrap connections between slot A09 R1 and A06 T1, A09 S1 and A06 U1, A09 T2 and A
 ![Arduino Mini Pro connections](https://dl.dropboxusercontent.com/u/96935524/Datormusuem/Parallell%20converter.png)
 
 The RS-232 converter is a Sparkfun [MAX3232 breakout board](https://www.sparkfun.com/products/11189)
+
+A standard AtMega328 processor can only handle 18 digital I/O signals. Thus BAUD1, BAUD2, BAUD3 and LOCAL is not supported as of yet.
