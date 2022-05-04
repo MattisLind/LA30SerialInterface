@@ -34,7 +34,7 @@ To have the LINE / LOCAL and BAUD RATE switch working on the keyboard wire
 wrap connections between slot A09 R1 and A06 T1, A09 S1 and A06 U1, A09 T2 and A06 V1 and finally A09 R2 and A06 U2. 
 
 
-![Arduino Mini Pro connections](https://dl.dropboxusercontent.com/u/96935524/Datormusuem/Parallell%20converter.png)
+![Arduino Mini Pro connections](http://storage.datormuseum.se/u/96935524/Datormusuem/Parallell%20converter.png)
 
 The RS-232 converter is a Sparkfun [MAX3232 breakout board](https://www.sparkfun.com/products/11189)
 
